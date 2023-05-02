@@ -1,11 +1,11 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
+	"id": "outlook-integration",
+	"name": "Outlook Integration",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "This plugin will integrate Obsidian with Microsoft Outlook Mail Calender and Tasks",
+	"author": "Saptarshi Mondal",
+	"authorUrl": "https://localhost",
+	"fundingUrl": "https://localhost",
 	"isDesktopOnly": false
 }
